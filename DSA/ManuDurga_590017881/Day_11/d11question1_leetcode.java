@@ -3,7 +3,7 @@ package Day_11;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class d11question_leetcode {
+public class d11question1_leetcode {
         public static int[] commonArray(String S) {
         int[] Sresult = new int[S.length()];
         boolean[] seen = new boolean[256];
